@@ -43,4 +43,5 @@ Sender  Message(Readable) - Encrption-  (Message|Cipher) - Decryption - Message(
 * [Asymmetric Key Cryptography](https://www.techtarget.com/searchsecurity/definition/asymmetric-cryptography)
 
 ## Digital Signature
-![The concept of digital signatures](/images/Screenshot%202022-07-20%20at%2015.54.04.png.jpg "Use of digital signatures in achieving authentication and confedentiality")
+![The concept of digital signatures](/images/ds.png "Use of digital signatures in achieving authentication and confedentiality")
+<img  src="/images/ds.png"/>
