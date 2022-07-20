@@ -76,7 +76,8 @@ Blockchain is simply database. One example of public blockchain is Bitcoin. Bitc
 
 ![Blockchain architecture](/images/ba.png)
 
-Blockchain hash network
+Blockchain hash network (in the diagram below)
+![Blockchain hash diagram](/images/block.png)
 
 ## POW (Proof of Work)
 
