@@ -23,3 +23,21 @@ Blockchain is a system in which a record of transactions made in bitcoin or anot
 
 * [cryptography](https://www.youtube.com/watch?v=C7vmouDOJYM) - Cryptography, or cryptology, is the practice and study of techniques for secure communication in the presence of adversarial behavior [more resources](https://www.udemy.com/course/du-cryptography/)
 * [Distributed computing](https://www.youtube.com/watch?v=ajjOEltiZm4) - A distributed system is a system whose components are located on different networked computers, which communicate and coordinate their actions by passing messages to one another from any system. 
+
+## Cryptography in Blockchain
+
+The blockchain works on peer-to-peer network (We don't need a central server). for example you have multipe nodes or people and the want to share music, they can do it using peer-to-peer , i.e ABCD are nodes A and B have same music album, C can download the album from A and B, lets say half from A and half from B and at the same time C can upload the album so that D can download it.
+[Torent](https://www.utorrent.com/) works with peer-to-peer network
+P2P is awesome but it doesnt matter which network you are using, we have 4 main concerns:
+
+* Confidentiality
+* Integrity
+* Non repudiation
+* Authentication
+
+Sender  Message(Readable) - Encrption-  (Message|Cipher) - Decryption - Message(Readable) - Receiver
+
+## Types of Cryptography
+
+* Symmetric Key Cryptography
+* Asymmetric Key Cryptography
