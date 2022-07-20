@@ -44,4 +44,3 @@ Sender  Message(Readable) - Encrption-  (Message|Cipher) - Decryption - Message(
 
 ## Digital Signature
 ![The concept of digital signatures](/images/ds.png "Use of digital signatures in achieving authentication and confedentiality")
-<img  src="/images/ds.png"/>
