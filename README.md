@@ -14,3 +14,12 @@ Blockchain is a system in which a record of transactions made in bitcoin or anot
 * Secure,, the entire blochain system works on cryptography
 
 ## Who should get into blockchain
+
+* Developers
+* Experts
+
+
+## Prerequisites
+
+* [cryptography](https://www.youtube.com/watch?v=C7vmouDOJYM) - Cryptography, or cryptology, is the practice and study of techniques for secure communication in the presence of adversarial behavior [more resources](https://www.udemy.com/course/du-cryptography/)
+* [Distributed computing](https://www.youtube.com/watch?v=ajjOEltiZm4) - A distributed system is a system whose components are located on different networked computers, which communicate and coordinate their actions by passing messages to one another from any system. 
