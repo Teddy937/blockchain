@@ -69,3 +69,8 @@ Example of different hashing Algorithms:
 In blockchain we have several blocks connected with the hash of values. Every block will have transactions. This can be one transaction or thausands of transactions.
 Now if you want to find the hash of one block will you combine the hash of all transactions or find hash of each transaction in a block (this means you have to store hash of each transactions) which is not a good idea. We can solve this puzzle with the helpe of Merkle trees/root?
 ![merkle tree](/images/mt.png "Merkle tree demo")
+
+## Blockchain Technology Architecture
+
+Blockchain is simply database. One example of public blockchain is Bitcoin. Bitcoin block which we use to send money may have from, to and money info all stored in bitcoin block
+![Blockchain architecture](/images/ba.png)
