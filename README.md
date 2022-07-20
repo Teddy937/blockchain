@@ -39,5 +39,8 @@ Sender  Message(Readable) - Encrption-  (Message|Cipher) - Decryption - Message(
 
 ## Types of Cryptography
 
-* Symmetric Key Cryptography
-* Asymmetric Key Cryptography
+* [Symmetric Key Cryptography](https://www.cryptomathic.com/news-events/blog/symmetric-key-encryption-why-where-and-how-its-used-in-banking)
+* [Asymmetric Key Cryptography](https://www.techtarget.com/searchsecurity/definition/asymmetric-cryptography)
+
+## Digital Signature
+![The concept of digital signatures](/images/Screenshot%202022-07-20%20at%2015.54.04.png.jpg "Use of digital signatures in achieving authentication and confedentiality")
