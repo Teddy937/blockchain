@@ -73,4 +73,14 @@ Now if you want to find the hash of one block will you combine the hash of all t
 ## Blockchain Technology Architecture
 
 Blockchain is simply database. One example of public blockchain is Bitcoin. Bitcoin block which we use to send money may have from, to and money info all stored in bitcoin block
+
 ![Blockchain architecture](/images/ba.png)
+
+Blockchain hash network
+
+## POW (Proof of Work)
+
+- a block has to be validated before making a change
+- it takes atleast 10 minutes to add the block in blockchain
+- blockchain will be stored in multiple machines
+- A concept of [consensus algorithm](https://analyticsindiamag.com/blockchain-consensus-algorithms/) comes in
