@@ -27,7 +27,7 @@ Blockchain is a system in which a record of transactions made in bitcoin or anot
 ## Cryptography in Blockchain
 
 The blockchain works on peer-to-peer network (We don't need a central server). for example you have multipe nodes or people and the want to share music, they can do it using peer-to-peer , i.e ABCD are nodes A and B have same music album, C can download the album from A and B, lets say half from A and half from B and at the same time C can upload the album so that D can download it.
-[Torent](https://www.utorrent.com/) works with peer-to-peer network
+[Torentz](https://torrentz2.nz) works with peer-to-peer network
 P2P is awesome but it doesnt matter which network you are using, we have 4 main concerns:
 
 * Confidentiality
@@ -44,3 +44,24 @@ Sender  Message(Readable) - Encrption-  (Message|Cipher) - Decryption - Message(
 
 ## Digital Signature
 ![The concept of digital signatures](/images/ds.png "Use of digital signatures in achieving authentication and confedentiality")
+
+## Blockchain nodes
+
+* [Full node](https://www.researchgate.net/figure/A-Blockchain-Network-node-A-full-node-stores-all-the-data-in-the-blockchain-including_fig1_333865080)
+Full node is basically a computer which will have the entire blockchain.It verify and store blocks
+
+* Partial Node
+
+## Hashing in Blockchain
+
+[Hashing Algorithms](https://www.sciencedirect.com/topics/computer-science/cryptographic-hash-algorithm)
+
+Example of different hashing Algorithms: 
+
+1. MD (Message Digest)
+   Message Digest Algorithm 5 (MD5) is a cryptographic hash algorithm that can be used to create a 128-bit string value from an arbitrary length string. Although there has been insecurities identified with MD5, it is still widely used. MD5 is most commonly used to verify the integrity of files.
+2. SHA (Secure Hash algorithm
+   Build by NSA (National Security Agency) is a cryptographically broken but still widely used hash function which takes an input and produces a 160-bit (20-byte) hash value known as a message digest – typically rendered as a hexadecimal number, 40 digits long.
+   We have SHA0, SHA1 , SHA2 (normally used by bitcoin), and SHA3. Two pupoluar values for SHA2 are 256 and 512
+
+## Merkle Tree/Root
