@@ -85,3 +85,25 @@ Blockchain hash network (in the diagram below)
 - it takes atleast 10 minutes to add the block in blockchain
 - blockchain will be stored in multiple machines
 - A concept of [consensus algorithm](https://analyticsindiamag.com/blockchain-consensus-algorithms/) comes in
+
+## Types of Blockchain
+
+* Private Blockchain. Specifically for single company
+
+* Federated Blockchain - group of people/companies
+
+* Public - Open to entire world
+
+
+## What is Ethereum
+
+Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.
+[Read more](https://ethereum.org/en/)
+All these web apps runs on internet(Centralized), we need Ethereum to be able to run them on decentralized network
+Ethereum Virtual Machine (EVM), if you want to run softwares on Ethereum network you need this machine
+Basically Ethereum is a platform where you can create decentralized applications
+
+## Smart Contracts Ethereum
+
+<code>Case Study</code>: Suppose we have a company ABC that is selling merchandise, and XYZ is a delivery company,, I fully trust ABC but I have trust issues with XYZ, How do we solve this?
+Well, if I make an order and pay, ABC will only receive the money after the product has been delivered to me by XYZ. This whole concept is called [smart contracts](https://ethereum.org/en/developers/docs/smart-contracts/)
